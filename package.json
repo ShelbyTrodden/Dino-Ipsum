@@ -1,5 +1,5 @@
 {
-  "name": "rpggame",
+  "name": "dino-ipsum",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "test": "jest --coverage"
   },
   "keywords": [],
-  "author": "Bryce Bresnan <bryce.bresnan@gmail.com> , Shelby Trodden <shelby.trodden@gmail.com>, Kasidit Srisawat <paulkasidit@gmail.com>",
+  "author": Shelby Trodden <shelby.trodden@gmail.com>, Kasidit Srisawat <paulkasidit@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.18.6",
